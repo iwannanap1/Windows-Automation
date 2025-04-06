@@ -1,0 +1,12 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+RPA Task                                                              Run Item: {'started_at': '2025-03-25 17:35:55', 'completed_at': '2025-03-25 17:36:00', 'status': 'Completed', 'report_data': {}, 'is_ticket': False, 'notification': {}}
+Run Item: {'started_at': '2025-03-25 17:36:00', 'completed_at': '2025-03-25 17:37:08', 'status': 'Completed', 'report_data': {}, 'is_ticket': True, 'notification': {}}
+| PASS |
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Shrijana\Downloads\bot-starter-kit-v2.0 (1)\windows_automation\output\output.xml
+Log:     C:\Users\Shrijana\Downloads\bot-starter-kit-v2.0 (1)\windows_automation\output\log.html

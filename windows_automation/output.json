@@ -1,0 +1,18 @@
+{
+    "title": "Historic evolution",
+    "para1": "The typical benefits of robotic automation include reduced cost; increased speed, accuracy, and consistency; improved quality and scalability of production. Automation can also provide extra security, especially for sensitive data and financial services.",
+    "para2": "As a form of automation, the concept has been around for a long time in the form of screen scraping, which can be traced back to early forms of malware[ambiguous]. However, RPA is much more extensible, consisting of API integration into other enterprise applications, connectors into ITSM systems, terminal services and even some types of AI (e.g. machine learning) services such as image recognition. It is considered to be a significant technological evolution in the sense that new software platforms are emerging which are sufficiently mature, resilient, scalable and reliable to make this approach viable for use in large enterprises[3] (who would otherwise be reluctant due to perceived risks to quality and reputation).",
+    "para3": "A principal barrier to the adoption of self-service is often technological: it may not always be feasible or economically viable to retrofit new interfaces onto existing systems. Moreover, organisations may wish to layer a variable and configurable set of process rules on top of the system interfaces which may vary according to market offerings and the type of customer. This only adds to the cost and complexity of the technological implementation. Robotic automation software provides a pragmatic means of deploying new services in this situation, where the robots simply mimic the behaviour of humans to perform the back-end transcription or processing. The relative affordability of this approach arises from the fact that no new IT transformation or investment is required; instead the software robots simply leverage greater use out of existing IT assets.",
+    "title2": "RPA actual use",
+    "list_items": [
+        "Banking and finance process automation",
+        "Mortgage and lending processes",
+        "Customer care automation",
+        "eCommerce merchandising operations",
+        "Social media marketing",
+        "Optical character recognition applications",
+        "Data extraction process",
+        "Fixed automation process[clarification needed]",
+        "Manual and Repetative tasks automation"
+    ]
+}
